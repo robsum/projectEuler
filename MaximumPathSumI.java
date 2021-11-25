@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class MaximumPathSumI {
 	public static void main(String[] args) {
 		int[][] array = {
